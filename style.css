@@ -10,7 +10,7 @@ img {
 
 body {
   min-height: 100svh;
-  background-color: #bdbace;
+  background-color: hsl(48, 27%, 79%);
 }
 
 article {
@@ -19,7 +19,7 @@ article {
   margin-top: 20px;
   border: solid 2px black;
   padding: 20px;
-  border-radius: 5px;
+  border-radius: 10px;
 }
 
 h1 {
@@ -39,7 +39,7 @@ nav {
 }
 
 a {
-  color: rgb(201, 200, 214);
+  color: rgb(215, 210, 143);
   font-size: 30px;
   font-weight: 700;
   text-decoration: none;
@@ -48,6 +48,6 @@ a {
 
 a:hover,
 a:focus {
-  color: rgb(100, 93, 234);
-  transform: scale(150%);
+  color: rgb(201, 103, 83);
+  transform: scale(175%);
 }
